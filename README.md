@@ -1,4 +1,5 @@
 # Youtube-search-in-terminal-RO-
+Pentru a intelege mai usor ce se intampla , folositi preview  <code>.
 Acest repo este gandit in asa fel incat sa elimine BrainRot-ul din cadrul design-ului proiectat de Youtube Shorts pe care eu unul il consider daunator pentru psihic.
 
 Sistemul pe care acest repo a fost conceput este Debian 13 (trixie) x86_64 din cadrul AntiX Linux Core, pe kernel Linux 7.0.12-x64v3-xanmod1, shell bash 5.2.37.
